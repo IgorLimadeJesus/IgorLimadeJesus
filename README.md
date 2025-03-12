@@ -24,7 +24,7 @@ Estou sempre em busca de aprender e me aprimorar mais, sempre me conectando com 
 [![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,visualstudio,vscode,idea)](https://skillicons.dev)
 #### Outros Conhecimentos
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,mongo,nodejs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,mongo,nodejs,py,java)](https://skillicons.dev)
 
 ****
 ## Contato
