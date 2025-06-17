@@ -21,10 +21,10 @@ Estou sempre em busca de aprender e me aprimorar mais, sempre me conectando com 
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 #### Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,visualstudio,vscode,idea,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,visualstudio,vscode,idea)](https://skillicons.dev)
 #### Outros Conhecimentos
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,mongo,nodejs,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,mongo,nodejs,py,java,react)](https://skillicons.dev)
 
 ****
 ## Contato
